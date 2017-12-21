@@ -4,7 +4,7 @@ This repository shows how you can use Combell Autogit to deploy a project.
 
 ## My Combell
 
-Go to [https://my.combell.com/](https://my.combell.com/) and activate "Autogit". You'll find the "Autogit" feature under the "Site settings" option in the control panel.
+Go to [https://my.combell.com/](https://my.combell.com/) and activate *Autogit*. You'll find the *Autogit* feature under the *Site settings* option in the control panel.
 
 Copy the displayed "Git repository", you'll need it later.
 
